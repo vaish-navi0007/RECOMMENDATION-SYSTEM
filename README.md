@@ -112,3 +112,6 @@ This project provides the foundational knowledge to build more advanced recommen
 
 This project provides a robust and interpretable implementation of a **Movie Recommendation System** using **Collaborative Filtering** and **Matrix Factorization (SVD)** within a **Jupyter Notebook** environment. It showcases how to extract patterns from sparse rating data to deliver meaningful recommendations and evaluate model accuracy using industry-standard metrics. With a clean modular structure, the notebook is ideal for learning, experimenting, and expanding toward production-grade recommender systems.
 
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/4ecdf7b0-54e2-47d8-9d05-f02ed04b609d)
