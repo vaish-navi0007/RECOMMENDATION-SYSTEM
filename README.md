@@ -18,7 +18,7 @@ This project demonstrates the development of a **Recommendation System** using *
 
 This project is built around the **MovieLens** dataset, a widely used dataset in recommendation system research and education. The system predicts movie ratings for users who haven’t rated them yet and recommends movies they are likely to enjoy based on the patterns extracted from existing user-movie rating interactions.
 
-
+---
 
 ### Tools and Technologies Used
 
@@ -30,7 +30,7 @@ This project is built around the **MovieLens** dataset, a widely used dataset in
 * **Jupyter Notebook**: The primary development and analysis environment. It allows for code execution, visualization, and markdown documentation in a structured format.
 * **VS Code (Optional)**: Can also be used for writing and running code via Python and Jupyter extensions.
 
-
+---
 
 ### Dataset Description
 
@@ -47,7 +47,7 @@ The dataset includes:
 
 This makes it an ideal dataset for testing collaborative filtering techniques due to its realistic structure and manageable size.
 
-
+---
 
 ### Project Workflow
 
@@ -82,7 +82,7 @@ This makes it an ideal dataset for testing collaborative filtering techniques du
    * These metrics indicate how accurately the system predicts unseen ratings.
    * Also visualized prediction distributions to understand the system’s bias.
 
-
+---
 
 ### Results and Observations
 
@@ -93,7 +93,7 @@ A few key findings:
 * Users with more historical data receive more personalized and accurate recommendations.
 * Cold-start problems (new users or new movies) still pose a challenge unless hybrid models are used.
 
-
+---
 
 ### Applications of Recommendation Systems
 
@@ -106,7 +106,7 @@ Recommendation systems are core to many modern digital services:
 
 This project provides the foundational knowledge to build more advanced recommenders, including hybrid models, content-based filtering, or even deep learning-based recommenders.
 
-
+---
 
 ### Conclusion
 
